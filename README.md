@@ -8,9 +8,9 @@ Os instrutores da DIO não apenas compartilham conhecimento, mas o fazem com car
 
 Esta é uma oportunidade única para adquirir habilidades práticas e teóricas que irão redefinir seu entendimento e uso da IA no mundo contemporâneo. Agradeço à DIO por oferecer uma formação tão excepcional e por seu comprometimento em capacitar profissionais de maneira impactante.
 
-## 📒 Descrição do Projeto - ESTE PROJETO FAZ PARTE DA FORMAÇÃO! Essa foi minha ideia, você pode ter milhares como explica
-
-Desenvolvi um sistema de premiação escolar utilizando Diagramas de Classe UML para representar a entrega de medalhas aos melhores alunos da escola. O sistema considera tanto classificações gerais quanto específicas por disciplina.
+## 📒 ESTE PROJETO FAZ PARTE DA FORMAÇÃO! Essa foi minha ideia, você pode ter milhares como explica claramento o professor Venilton Falvo.
+# Descrição do Projeto:
+### Desenvolvi um sistema de premiação escolar utilizando Diagramas de Classe UML para representar a entrega de medalhas aos melhores alunos da escola. O sistema considera tanto classificações gerais quanto específicas por disciplina.
 
 ## 🤖 Tecnologias Utilizadas
 - [Lucidchart](https://www.lucidchart.com/): Ferramenta online para criação de diagramas UML.
