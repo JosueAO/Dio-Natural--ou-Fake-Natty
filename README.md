@@ -95,7 +95,7 @@ Os diagramas de classe UML resultantes proporcionam uma visão clara da estrutur
 
 Este diagrama foi gerado utilizando a linguagem [Mermaid](https://mermaid-js.github.io/mermaid/), uma ferramenta de marcação que permite a criação de diagramas de maneira fácil e integrada aos arquivos markdown. A representação visual é gerada dinamicamente pela própria plataforma ao visualizar este README.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Refleti sobre a importância de representar de forma clara e precisa as relações entre as entidades do sistema de premiação. Os diagramas UML facilitaram a comunicação e compreensão do sistema.
 
 ## Como Contribuir
